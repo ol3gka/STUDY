@@ -1,2 +1,2 @@
 # STUDY
-This notebook created in order to establish and maintain knowledge of main data structures in python3
+This REPO created in order to establish and maintain knowledge of data structures and algorithms in python3
